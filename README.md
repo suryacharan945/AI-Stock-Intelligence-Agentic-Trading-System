@@ -4,7 +4,7 @@
 
 This project is an AI-powered investment intelligence platform designed for retail investors.  
 It transforms raw financial data into **actionable trading decisions** using Machine Learning, Sentiment Analysis, and Agentic AI.
-
+🔗 Live Demo: https://ai-in-market-trend-analysis.streamlit.app/
 ---
 
 ## 🎯 Problem Statement
