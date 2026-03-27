@@ -1,0 +1,1 @@
+{"model_type": "XGBoost + Sentiment + Agent AI", "features_count": 24, "description": "AI Stock Intelligence System with Multi-Step Agent Reasoning", "prediction_threshold": 0.6, "version": "2.0 (Hackathon Final)", "components": ["Technical Indicators", "News Sentiment Analysis", "Machine Learning Model", "Agentic Decision Engine", "Explainable AI"]}
